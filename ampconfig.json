@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.2",
+  "appInfo": {
+    "name": "My First Amp",
+    "description": "My first Amplication generated app",
+    "version": "4ua63qfi",
+    "id": "cl1bwq4eq11329801s60dto8uq3",
+    "url": "https://app.amplication.com/cl1bwq4eq11329801s60dto8uq3",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1bwq4eq11329801s60dto8uq3",
+      "authProvider": "Jwt"
+    }
+  }
+}
